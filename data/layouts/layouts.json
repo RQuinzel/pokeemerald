@@ -4414,8 +4414,8 @@
     {
       "id": "LAYOUT_STARTING_TOWN",
       "name": "startingTown_Layout",
-      "width": 40,
-      "height": 40,
+      "width": 30,
+      "height": 30,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_startingTown",
       "border_filepath": "data/layouts/startingTown/border.bin",
