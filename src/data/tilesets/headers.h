@@ -853,6 +853,17 @@ const struct Tileset gTileset_altPokecenter =
     .callback = NULL,
 };
 
+const struct Tileset gTileset_shadyForest =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_shadyForest,
+    .palettes = gTilesetPalettes_shadyForest,
+    .metatiles = gMetatiles_shadyForest,
+    .metatileAttributes = gMetatileAttributes_shadyForest,
+    .callback = NULL,
+};
+
 const struct Tileset gTileset_dojoExterior =
 {
     .isCompressed = TRUE,
@@ -864,13 +875,14 @@ const struct Tileset gTileset_dojoExterior =
     .callback = NULL,
 };
 
-const struct Tileset gTileset_shadyForest =
+
+const struct Tileset gTileset_dojoInterior =
 {
     .isCompressed = TRUE,
     .isSecondary = TRUE,
-    .tiles = gTilesetTiles_shadyForest,
-    .palettes = gTilesetPalettes_shadyForest,
-    .metatiles = gMetatiles_shadyForest,
-    .metatileAttributes = gMetatileAttributes_shadyForest,
+    .tiles = gTilesetTiles_dojoInterior,
+    .palettes = gTilesetPalettes_dojoInterior,
+    .metatiles = gMetatiles_dojoInterior,
+    .metatileAttributes = gMetatileAttributes_dojoInterior,
     .callback = NULL,
-}
+};
