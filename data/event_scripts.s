@@ -1164,3 +1164,5 @@ EventScript_VsSeekerChargingDone::
 	.include "data/maps/myStartingTown/scripts.inc"
 
 	.include "data/maps/firstRoute/scripts.inc"
+
+	.include "data/maps/FirstTown/scripts.inc"

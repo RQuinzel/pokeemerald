@@ -625,6 +625,7 @@
   ],
   "gMapGroup_MyTownsAndRoutes": [
     "myStartingTown",
-    "firstRoute"
+    "firstRoute",
+    "FirstTown"
   ]
 }

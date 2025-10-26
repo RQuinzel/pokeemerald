@@ -17,6 +17,11 @@
       "map": "MAP_MY_STARTING_TOWN",
       "offset": 0,
       "direction": "right"
+    },
+    {
+      "map": "MAP_FIRST_TOWN",
+      "offset": -12,
+      "direction": "down"
     }
   ],
   "object_events": [],

@@ -842,13 +842,57 @@ const struct Tileset gTileset_startingTown =
     .callback = NULL,
 };
 
-const struct Tileset gTileset_idk =
+const struct Tileset gTileset_altPokecenter =
 {
     .isCompressed = TRUE,
-    .isSecondary = FALSE,
-    .tiles = gTilesetTiles_idk,
-    .palettes = gTilesetPalettes_idk,
-    .metatiles = gMetatiles_idk,
-    .metatileAttributes = gMetatileAttributes_idk,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_altPokecenter,
+    .palettes = gTilesetPalettes_altPokecenter,
+    .metatiles = gMetatiles_altPokecenter,
+    .metatileAttributes = gMetatileAttributes_altPokecenter,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_shadyForest =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_shadyForest,
+    .palettes = gTilesetPalettes_shadyForest,
+    .metatiles = gMetatiles_shadyForest,
+    .metatileAttributes = gMetatileAttributes_shadyForest,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_dojoExterior =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_dojoExterior,
+    .palettes = gTilesetPalettes_dojoExterior,
+    .metatiles = gMetatiles_dojoExterior,
+    .metatileAttributes = gMetatileAttributes_dojoExterior,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_autumnRuins =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_autumnRuins,
+    .palettes = gTilesetPalettes_autumnRuins,
+    .metatiles = gMetatiles_autumnRuins,
+    .metatileAttributes = gMetatileAttributes_autumnRuins,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_zeldaHouse =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_zeldaHouse,
+    .palettes = gTilesetPalettes_zeldaHouse,
+    .metatiles = gMetatiles_zeldaHouse,
+    .metatileAttributes = gMetatileAttributes_zeldaHouse,
     .callback = NULL,
 };

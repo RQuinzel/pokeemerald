@@ -4440,6 +4440,16 @@
       "secondary_tileset": "gTileset_startingTown",
       "border_filepath": "data/layouts/myStartingTown/border.bin",
       "blockdata_filepath": "data/layouts/myStartingTown/map.bin"
+    },
+    {
+      "id": "LAYOUT_FIRST_TOWN",
+      "name": "FirstTown_Layout",
+      "width": 25,
+      "height": 25,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_GenericBuilding",
+      "border_filepath": "data/layouts/FirstTown/border.bin",
+      "blockdata_filepath": "data/layouts/FirstTown/map.bin"
     }
   ]
 }
