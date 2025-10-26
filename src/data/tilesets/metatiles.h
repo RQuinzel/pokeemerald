@@ -211,35 +211,20 @@ const u16 gMetatileAttributes_UnionRoom[] = INCBIN_U16("data/tilesets/secondary/
 const u16 gMetatiles_startingTown[] = INCBIN_U16("data/tilesets/secondary/starting_town/metatiles.bin");
 const u16 gMetatileAttributes_startingTown[] = INCBIN_U16("data/tilesets/secondary/starting_town/metatile_attributes.bin");
 
-const u16 gMetatiles_idk[] = INCBIN_U16("data/tilesets/primary/idk/metatiles.bin");
-const u16 gMetatileAttributes_idk[] = INCBIN_U16("data/tilesets/primary/idk/metatile_attributes.bin");
-
 const u16 gMetatiles_altPokecenter[] = INCBIN_U16("data/tilesets/secondary/alt_pokecenter/metatiles.bin");
 const u16 gMetatileAttributes_altPokecenter[] = INCBIN_U16("data/tilesets/secondary/alt_pokecenter/metatile_attributes.bin");
 
 const u16 gMetatiles_dojo_exterior[] = INCBIN_U16("data/tilesets/primary/dojo_exterior/metatiles.bin");
 const u16 gMetatileAttributes_dojo_exterior[] = INCBIN_U16("data/tilesets/primary/dojo_exterior/metatile_attributes.bin");
 
-const u16 gMetatiles_shadyForest[] = INCBIN_U16("data/tilesets/primary/shady_forest/metatiles.bin");
-const u16 gMetatileAttributes_shadyForest[] = INCBIN_U16("data/tilesets/primary/shady_forest/metatile_attributes.bin");
-
-const u16 gMetatiles_autumnRuins[] = INCBIN_U16("data/tilesets/primary/autumn_ruins/metatiles.bin");
-const u16 gMetatileAttributes_autumnRuins[] = INCBIN_U16("data/tilesets/primary/autumn_ruins/metatile_attributes.bin");
-
-const u16 gMetatiles_zeldaHouse[] = INCBIN_U16("data/tilesets/primary/zelda_house/metatiles.bin");
-const u16 gMetatileAttributes_zeldaHouse[] = INCBIN_U16("data/tilesets/primary/zelda_house/metatile_attributes.bin");
-
-const u16 gMetatiles_shadyForest[] = INCBIN_U16("data/tilesets/secondary/shady_forest/metatiles.bin");
-const u16 gMetatileAttributes_shadyForest[] = INCBIN_U16("data/tilesets/secondary/shady_forest/metatile_attributes.bin");
-
 const u16 gMetatiles_dojoExterior[] = INCBIN_U16("data/tilesets/secondary/dojo_exterior/metatiles.bin");
 const u16 gMetatileAttributes_dojoExterior[] = INCBIN_U16("data/tilesets/secondary/dojo_exterior/metatile_attributes.bin");
 
-const u16 gMetatiles_autumnRuins[] = INCBIN_U16("data/tilesets/secondary/autumn_ruins/metatiles.bin");
-const u16 gMetatileAttributes_autumnRuins[] = INCBIN_U16("data/tilesets/secondary/autumn_ruins/metatile_attributes.bin");
+const u16 gMetatiles_dojoInterior[] = INCBIN_U16("data/tilesets/secondary/dojo_interior/metatiles.bin");
+const u16 gMetatileAttributes_dojoInterior[] = INCBIN_U16("data/tilesets/secondary/dojo_interior/metatile_attributes.bin");
 
 const u16 gMetatiles_zeldaHouse[] = INCBIN_U16("data/tilesets/secondary/zelda_house/metatiles.bin");
 const u16 gMetatileAttributes_zeldaHouse[] = INCBIN_U16("data/tilesets/secondary/zelda_house/metatile_attributes.bin");
 
-const u16 gMetatiles_dojoInterior[] = INCBIN_U16("data/tilesets/secondary/dojo_interior/metatiles.bin");
-const u16 gMetatileAttributes_dojoInterior[] = INCBIN_U16("data/tilesets/secondary/dojo_interior/metatile_attributes.bin");
+const u16 gMetatiles_shadyForest[] = INCBIN_U16("data/tilesets/secondary/shady_forest/metatiles.bin");
+const u16 gMetatileAttributes_shadyForest[] = INCBIN_U16("data/tilesets/secondary/shady_forest/metatile_attributes.bin");
