@@ -4447,7 +4447,7 @@
       "width": 25,
       "height": 25,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_GenericBuilding",
+      "secondary_tileset": "gTileset_dojoExterior",
       "border_filepath": "data/layouts/FirstTown/border.bin",
       "blockdata_filepath": "data/layouts/FirstTown/map.bin"
     }
