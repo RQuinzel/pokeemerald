@@ -4420,6 +4420,26 @@
       "secondary_tileset": "gTileset_startingTown",
       "border_filepath": "data/layouts/startingTown/border.bin",
       "blockdata_filepath": "data/layouts/startingTown/map.bin"
+    },
+    {
+      "id": "LAYOUT_FIRST_ROUTE",
+      "name": "firstRoute_Layout",
+      "width": 40,
+      "height": 30,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_startingTown",
+      "border_filepath": "data/layouts/firstRoute/border.bin",
+      "blockdata_filepath": "data/layouts/firstRoute/map.bin"
+    },
+    {
+      "id": "LAYOUT_MY_STARTING_TOWN",
+      "name": "myStartingTown_Layout",
+      "width": 30,
+      "height": 30,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_startingTown",
+      "border_filepath": "data/layouts/myStartingTown/border.bin",
+      "blockdata_filepath": "data/layouts/myStartingTown/map.bin"
     }
   ]
 }
