@@ -875,3 +875,14 @@ const struct Tileset gTileset_dojoExterior =
     .callback = NULL,
 };
 
+
+const struct Tileset gTileset_dojoInterior =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_dojoInterior,
+    .palettes = gTilesetPalettes_dojoInterior,
+    .metatiles = gMetatiles_dojoInterior,
+    .metatileAttributes = gMetatileAttributes_dojoInterior,
+    .callback = NULL,
+};

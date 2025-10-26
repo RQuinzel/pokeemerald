@@ -1166,3 +1166,7 @@ EventScript_VsSeekerChargingDone::
 	.include "data/maps/firstRoute/scripts.inc"
 
 	.include "data/maps/FirstTown/scripts.inc"
+
+	.include "data/maps/firstCenter/scripts.inc"
+
+	.include "data/maps/firstTownDojo/scripts.inc"

@@ -240,3 +240,6 @@ const u16 gMetatileAttributes_autumnRuins[] = INCBIN_U16("data/tilesets/secondar
 
 const u16 gMetatiles_zeldaHouse[] = INCBIN_U16("data/tilesets/secondary/zelda_house/metatiles.bin");
 const u16 gMetatileAttributes_zeldaHouse[] = INCBIN_U16("data/tilesets/secondary/zelda_house/metatile_attributes.bin");
+
+const u16 gMetatiles_dojoInterior[] = INCBIN_U16("data/tilesets/secondary/dojo_interior/metatiles.bin");
+const u16 gMetatileAttributes_dojoInterior[] = INCBIN_U16("data/tilesets/secondary/dojo_interior/metatile_attributes.bin");
