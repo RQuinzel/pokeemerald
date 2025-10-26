@@ -875,24 +875,3 @@ const struct Tileset gTileset_dojoExterior =
     .callback = NULL,
 };
 
-const struct Tileset gTileset_autumnRuins =
-{
-    .isCompressed = TRUE,
-    .isSecondary = TRUE,
-    .tiles = gTilesetTiles_autumnRuins,
-    .palettes = gTilesetPalettes_autumnRuins,
-    .metatiles = gMetatiles_autumnRuins,
-    .metatileAttributes = gMetatileAttributes_autumnRuins,
-    .callback = NULL,
-};
-
-const struct Tileset gTileset_zeldaHouse =
-{
-    .isCompressed = TRUE,
-    .isSecondary = TRUE,
-    .tiles = gTilesetTiles_zeldaHouse,
-    .palettes = gTilesetPalettes_zeldaHouse,
-    .metatiles = gMetatiles_zeldaHouse,
-    .metatileAttributes = gMetatileAttributes_zeldaHouse,
-    .callback = NULL,
-};
