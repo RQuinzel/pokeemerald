@@ -1692,8 +1692,6 @@ const u16 gTilesetPalettes_dojo_exterior[][16] =
 
 const u32 gTilesetTiles_dojo_exterior[] = INCBIN_U32("data/tilesets/primary/dojo_exterior/tiles.4bpp.lz");
 
-const u16 gTilesetPalettes_shadyForest[][16] =
-{
 const u16 gTilesetPalettes_dojoExterior[][16] =
 {
     INCBIN_U16("data/tilesets/secondary/dojo_exterior/palettes/00.gbapal"),
